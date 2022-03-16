@@ -1,6 +1,6 @@
 - What is up, I'm Zach
-- 👀 I’m interested in Python programming 
-- 🌱 I’m currently learning about APIs in python but I really wanna build websites
+- I’m interested in Python programming 
+- 🌱 I’m currently practicing everyday on codewars but I want to expand my experience
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me zackj345@gmail.com
 
