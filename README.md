@@ -1,6 +1,6 @@
 - What's up, I'm Zach
-- I’m interested in Software Development.
-- 🌱 I’m currently working on personal projects (specifically Flask web applications) trying to build my experience and knowledge as well as applying to Software Developer jobs.
+- I’m interested in Tech Support, Software Development, and all things code.
+- 🌱 I’m currently working on personal projects, building more experience and applying to Software Developer/Support roles.
 - 📫 How to reach me zackj345@gmail.com
 
 <!---
